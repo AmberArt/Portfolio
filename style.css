@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Glitch&display=swap');
+
+nav .header-top {
+    padding: 0 2rem 0 5rem;
+}
+
+.header-top .navbar-brand {
+    font-family: cursive;
+
+}
+
+nav .navbar-nav .nav-link {
+    font-family: fantasy;
+    text-transform: uppercase;
+    font-weight: 500;
+    padding: 1.1rem; 
+}
+
+section .top-page {
+    background-image: url(https://th.bing.com/th/id/R.1514404cbf2e267c4333bf3bf4968cf2?rik=ejXJPpnGasZkgA&riu=http%3a%2f%2f4.bp.blogspot.com%2f_8sGKV9vGg2E%2fS-mNz499dDI%2fAAAAAAAAAFM%2fifmjZCz3fkU%2fs1600%2fMountains.jpg&ehk=CCfBJ9uQWK7Cem%2fXqkg84shk52LBXPeMLjc0COHkT5M%3d&risl=&pid=ImgRaw&r=0);
+    background-repeat: initial;
+    height: 400px;
+    border: 1px solid red;
+}
+
+div .intro {
+    margin-top: 4%;
+    font-family:'Rubik Glitch', cursive;
+    color: aliceblue;
+}
+
+p.intro {
+    font-size: large;
+    color: black;
+    font-stretch: expanded;
+}
