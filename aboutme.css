@@ -14,3 +14,15 @@ nav .navbar-nav .nav-link {
     padding: 1.1rem; 
     margin-right: 10%;
 }
+
+.meta-tbl {
+    margin: 3% 10% 10% 10%;
+    border: 1px solid brown;
+    border-radius: 50%;
+}
+
+
+
+table .nest {
+    border: 1px solid black;
+}
